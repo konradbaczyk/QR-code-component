@@ -6,5 +6,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/konradbaczyk/QR-code-component?tab=readme-ov-file](https://github.com/konradbaczyk/QR-code-component?tab=readme-ov-file)
-- Live Site URL: [https://konradbaczyk.github.io/QR-code-component/](https://your-live-site-url.com)
+- Solution URL: [Github with code](https://github.com/konradbaczyk/QR-code-component?tab=readme-ov-file)
+- Live site URL: [Live site](https://konradbaczyk.github.io/QR-code-component/)
